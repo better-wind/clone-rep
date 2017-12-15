@@ -1,0 +1,19 @@
+{
+  "name": "{{Name}}",
+  "version": "1.0.0",
+  "description": "node cmd domload rep",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luyi10year/clone-rep.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luyi10year/clone-rep/issues"
+  },
+  "homepage": "https://github.com/luyi10year/clone-rep#readme"
+}
